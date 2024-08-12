@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api\api.csproj", "{6924EF4A-B084-44B1-B74D-C78268814C0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infrastructure", "infrastructure", "{01CFEEF3-2B9E-4D3B-B872-9CB913FD0963}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "application", "application", "{22517978-105D-42C8-92BA-D840BC762515}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "domain", "domain", "{95E35025-925A-4949-95C9-CA597DE49462}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{3C120F0F-B6A2-44A9-87E9-575F2163BAEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6924EF4A-B084-44B1-B74D-C78268814C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6924EF4A-B084-44B1-B74D-C78268814C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6924EF4A-B084-44B1-B74D-C78268814C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6924EF4A-B084-44B1-B74D-C78268814C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6924EF4A-B084-44B1-B74D-C78268814C0E} = {3C120F0F-B6A2-44A9-87E9-575F2163BAEC}
+	EndGlobalSection
+EndGlobal
